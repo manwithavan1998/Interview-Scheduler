@@ -11,8 +11,8 @@ Things that can be implemented differently :
 * Interview List could be represented using table.
 
 Steps to run the project :
-
+* install xampp in your system and start apache and sql from there.
 * make a directory with name 'your_project_name' in C:\xampp\htdocs
 * download all the files here and add them to your project folder
-* then import the interview.sql databse in your databse 
+* then import the interview.sql databse in your databse by opening phpmyadmin.
 * then simply use apache2 web server to run the project on localhost as localhost/your_project_name/home2.php
