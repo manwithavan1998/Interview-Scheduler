@@ -95,7 +95,7 @@ th {
 					echo "Interviewer:  {$row['interviewer_name']}<br/>";
 				}
 				else if($ind!='interview_id'){
-					echo "$ind, : $val<br />";
+					echo "$ind : $val<br />";
 				}
 				else if($ind == 'interview_id'){
 				//	echo $ind." ".$val."<br/>";
