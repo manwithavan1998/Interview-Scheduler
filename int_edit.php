@@ -26,7 +26,7 @@ header {
 </head>
 <body>
 <div class="header">
-<p style="margin-left:100px;"><h2 style="margin-left:100px;margin-right:300px;font-size: 50px; font-family: Times New Roman; font-color:white;"><right style="font-color:white;">Keep patitence!!! Work in progress.<br/></right></h2></p>
+<p style="margin-left:100px;"><h2 style="margin-left:100px;margin-right:300px;font-size: 50px; font-family: Times New Roman; font-color:white;"><right style="font-color:white;">Keep patience!!! Work in progress.<br/></right></h2></p>
 </div>
 
 
