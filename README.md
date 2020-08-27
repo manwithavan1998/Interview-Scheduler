@@ -9,3 +9,10 @@ Things that can be implemented differently :
 * Multiple interviewees can be an option for an interview.
 * In place of interviewer id, name and description could be used.
 * Interview List could be represented using table.
+
+Steps to run the project :
+
+* make a directory with name 'your_project_name' in C:\xampp\htdocs
+* download all the files here and add them to your project folder
+* then import the interview.sql databse in your databse 
+* then simply use apache2 web server to run the project on localhost as localhost/your_project_name/home2.php
