@@ -15,4 +15,4 @@ Steps to run the project :
 * make a directory with name 'your_project_name' in C:\xampp\htdocs
 * download all the files here and add them to your project folder
 * then import the interview.sql databse in your databse by opening phpmyadmin.
-* then simply use apache2 web server to run the project on localhost as localhost/your_project_name/home2.php
+* then simply use apache web server to run the project on localhost as localhost/your_project_name/home2.php
